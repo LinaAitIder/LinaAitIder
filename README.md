@@ -29,21 +29,28 @@ I work with **React, TypeScript, and Spring Boot**, connecting clear interfaces 
 
 ## Currently exploring 🔬
 
-Working on an **empirical software engineering research project focused on Moroccan mobile applications**, at the intersection of mining software repositories and multilingual NLP.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="180" alt="Coding animation" />
 
-Exploring how user feedback can inform our understanding of software.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=2500&color=F77C7C&vCenter=true&width=460&height=45&lines=Researching+Moroccan+mobile+apps" alt="Researching Moroccan mobile apps" />
 
-📬 **Interested in this research?** I'm open to exchanging ideas, receiving feedback, and exploring potential collaborations. Feel free to [get in touch](mailto:linaitider@gmail.com).
+I'm working on an **empirical software engineering research project** focused on Moroccan mobile applications.
 
-<sub>ONGOING RESEARCH · MOROCCAN MOBILE APPS · MULTILINGUAL NLP</sub>
+The project brings together **mining software repositories and multilingual NLP** to explore user feedback.
+
+> 📬 **Interested in this research?**
+>
+> I'm open to exchanging ideas, receiving feedback, and exploring potential collaborations.
+>
+> **[Let's discuss the project →](mailto:linaitider@gmail.com)**
 
 ## Technologies 🧰
-
+</br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,figma,java,spring,postgres,python,flask,docker,git,githubactions,vitest&perline=7&theme=dark" width="370" alt="React, TypeScript, JavaScript, Tailwind CSS, Figma, Java, Spring Boot, PostgreSQL, Python, Flask, Docker, Git, GitHub Actions, Vitest" />
   <br />
   <sub>Also worked with YOLOv8, Hugging Face Transformers, and Keycloak.</sub>
 </p>
+</br>
 
 ## My recent projects 🚀
 
