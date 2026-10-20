@@ -11,8 +11,8 @@
 ## About me 🌷
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="250" alt="Animated coding illustration" />
-
-I'm **Lina**, a software engineer who enjoys building useful applications and understanding the people who use them.
+ 
+I'm **Lina**, a software engineer who enjoys building useful applications that solve real problems and understanding the people who use them.
 
 I work with **React, TypeScript, and Spring Boot**, connecting clear interfaces with backend logic. My experience includes **B2B SaaS applications, interactive dashboards, and applied AI**.
 
